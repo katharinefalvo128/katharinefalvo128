@@ -1,4 +1,4 @@
-## Hi there 👋
+## hellooo  estou estudando no alura
 
 <!--
 **katharinefalvo128/katharinefalvo128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
